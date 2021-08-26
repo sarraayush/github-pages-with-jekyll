@@ -1,4 +1,3 @@
-theme: mimima
 title: my practice repository
 author: aayush kumar
 email: ayayush@gmail.com
@@ -9,4 +8,4 @@ twitter_username: sarraayush # DO NOT include the @ character, or else the build
 github_username:  sarraayush # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-
+theme: mimima
